@@ -1,0 +1,38 @@
+dublin_core:
+  conformsto: 'rc0.2'
+  contributor: []
+  creator: 'pankosmia'
+  description: 'Open Bible Stories in Yucatec Maya.'
+  format: 'text/markdown'
+  identifier: 'obs'
+  issued: '2026-05-13'
+  language:
+    direction: 'ltr'
+    identifier: 'yua'
+    title: 'Maaya t''aan'
+  modified: '2026-05-13'
+  publisher: 'pankosmia'
+  relation: []
+  rights: 'CC BY-SA 4.0'
+  source:
+    -
+      identifier: 'obs'
+      language: 'en'
+      version: '9'
+  subject: 'Open Bible Stories'
+  title: 'Open Bible Stories (Yucatec Maya)'
+  type: 'book'
+  version: '0'
+
+checking:
+  checking_entity: []
+  checking_level: '1'
+
+projects:
+  -
+    categories:
+    identifier: 'obs'
+    path: './content'
+    sort: 0
+    title: 'Open Bible Stories (Yucatec Maya)'
+    versification:
