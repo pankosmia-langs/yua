@@ -9,7 +9,7 @@
       "userName": "A Pankosmia Web User"
     },
     "defaultLocale": "en",
-    "dateCreated": "2026-05-19T10:31:49.000Z",
+    "dateCreated": "2026-05-29T11:48:44.000Z",
     "normalization": "NFC"
   },
   "idAuthorities": {
@@ -23,9 +23,9 @@
   "identification": {
     "primary": {
       "local": {
-        "Tst4": {
+        "Tst": {
           "revision": "1",
-          "timestamp": "2026-05-19T10:31:49.000Z"
+          "timestamp": "2026-05-29T11:48:44.000Z"
         }
       }
     },
@@ -36,7 +36,7 @@
       "en": "Test"
     },
     "abbreviation": {
-      "en": "Tst4"
+      "en": "Tst"
     }
   },
   "confidential": false,
